@@ -9,5 +9,3 @@
 
 I did not build this demo from scratch, I merely merged a few togheter.
 You can find the originals on [Threejs.org](https://threejs.org/examples/?q=webxr)
-
-(WIP: trying to rebuild the custom demo)
